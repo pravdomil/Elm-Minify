@@ -1,0 +1,7 @@
+{
+  "name": "elm-minify",
+  "bin": "bin/elm-minify.js",
+  "dependencies": {
+    "uglify-js": "^3.16.3"
+  }
+}
